@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="linkwatcher:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="linkwatcher.war">
+      <element id="artifact" artifact-name="linkwatcher:war exploded" />
+    </root>
+  </artifact>
+</component>
